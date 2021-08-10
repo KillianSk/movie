@@ -1,1 +1,1 @@
-{"version":"1.0.1","link":"https://ouo.io/3kcYEr"}
+{"version":"2","link":"https://ouo.io/3kcYEr"}
